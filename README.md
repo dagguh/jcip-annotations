@@ -22,12 +22,11 @@ I used only the Javadoc of the [JCIP][1] annotations.
 
 At no time did I look at the original Findbugs source code.
 
-Rational
+Rationale
 --------
 
 The JCIP Annotations are really useful, however they are released
-under the [Creative Commons Attribution License]
-(http://creativecommons.org/licenses/by/2.5), which is 
+under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/2.5), which is 
 [not recommended for licensing software](http://wiki.creativecommons.org/FAQ#Can_I_use_a_Creative_Commons_license_for_software.3F) 
 and may therefore cause issues for some people.
 
